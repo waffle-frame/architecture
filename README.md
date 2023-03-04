@@ -1,2 +1,2 @@
-# architecture
+# Architecture
 Modular golang architecture
