@@ -1,0 +1,2 @@
+# architecture
+Modular golang architecture
